@@ -6,7 +6,7 @@
 
  date    : 2024/09/14
 
- update  : 2024/09/16
+ update  : 2024/09/16 
 
 ***
 ### Summary
@@ -43,6 +43,8 @@ compatibility_flags = [ "nodejs_compat" ]
 
 ***
 ### blog 
+
+* https://knakatech-blog.pages.dev/posts/157
 
 ***
 # License
